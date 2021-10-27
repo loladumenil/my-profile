@@ -1,0 +1,95 @@
+h1 {
+color: black;
+font-size: 50px;
+font-family: Times,serif;
+text-align: center;
+text-shadow:#black; 0 -1px 0,
+#ff6767 2px 2px 0,
+#ca3333 3px 3px 0,
+#770a0c 4px 4px 0,
+#333 5px 5px 10px;color: whitesmoke;
+background-color:rgb(255, 182, 193);
+ 
+
+
+}
+
+div {
+font-family: 'Merriweather', serif;
+background-color: #81AE9D;
+text-align: center;
+}
+
+
+h2 {
+color: rgb(255, 182, 193);                                    
+font-family: 'Roboto Slab', serif;
+text-align: center;
+border-color: rgb(255, 182, 193);
+text-shadow:#black; 0 -1px 0,
+#ff3a00 1px 1px 0,
+#c01c01 2px 2px 0,
+#bf1b01 3px 3px 0,
+#e90b20 4px 4px 0,
+#850103 5px 5px 0,
+#333 5px 5px 10px;color:rgb(255, 182, 193);
+background-color:#whitesmoke;
+
+ }
+
+ div {
+font-family: 'Merriweather', serif;
+background-color: #81AE9D;
+text-align: center;
+}
+
+ p{
+  color: whitesmoke;
+  font-size: 16px;
+  text-align: justify-all;
+ }
+ div {
+font-family: 'Merriweather', serif;
+background-color: #81AE9D;
+text-align: center;
+box-shadow: 5px 5px 3px grey;
+margin: 10px;
+padding: 10px;
+border-radius: 10px;
+}
+
+
+
+ .styled {
+    border: 0;
+    line-height: 2.5;
+    padding: 0 20px;
+    font-size: 1rem;
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: 1px 1px 1px #000;
+    border-radius: 10px;
+    background-color: rgba(255, 182, 193, 1);
+    background-image: linear-gradient(to top left,
+                                      rgba(0, 0, 0, .2),
+                                      rgba(0, 0, 0, .2) 30%,
+                                      rgba(0, 0, 0, 0));
+    box-shadow: inset 2px 2px 3px rgba(255, 255, 255, .6),
+                inset -2px -2px 3px rgba(0, 0, 0, .6);
+}
+
+.styled:hover {
+    background-color: rgba(0, 0, 0, 1);
+}
+
+.styled:active {
+    box-shadow: inset -2px -2px 3px rgba(255, 255, 255, .6),
+                inset 2px 2px 3px rgba(0, 0, 0, .6);
+}
+
+ div {
+font-family: 'Merriweather', serif;
+background-color: #81AE9D;
+text-align: center;
+}
+
